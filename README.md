@@ -1,1 +1,5 @@
-<img width="1009" alt="Screenshot 2022-04-29 at 1 10 28 PM" src="https://user-images.githubusercontent.com/63807534/165903535-41dac5b9-c380-4c5d-8b1b-28f87449f0de.png">
+# Hi, I'm Dinushi 👋🏽👩🏽‍💻
+
+I am currently enrolled as a student in data science at Sri Lanka Institute of Information Technology(SLIIT) pursuing an undergraduate degree. I believe that the skills that I have attained from the dynamic environment and competitive university life define me. Plus, I am looking forward to implementing and polishing my skills in any opportunity that I receive.
+
+Reach out: <a href="https://www.linkedin.com/in/dinushi-jayasinghe">LinkedIn</a>
