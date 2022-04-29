@@ -4,8 +4,7 @@
 
 I am currently enrolled as a data science student in at <b>Sri Lanka Institute of Information Technology</b>(SLIIT) pursuing an undergraduate degree. I believe that the skills that I have attained from the dynamic environment and competitive university life define me. Plus, I am looking forward to implementing and polishing my skills in any opportunity that I receive.✨
 
-##Reach out: 
-<br>
+Reach out: 
 <a href="https://www.linkedin.com/in/dinushi-jayasinghe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
