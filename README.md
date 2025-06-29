@@ -18,6 +18,8 @@ I am a postgraduate student at the **University of Waikato**, pursuing a **Maste
 
 <b>Reach out: </b>
 <br>
+<a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title='LinkedIn'><img align="center" src="./assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/dinushi-jayasinghe" height="40" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/dinushi-jayasinghe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
