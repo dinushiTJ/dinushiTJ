@@ -1,5 +1,4 @@
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=800081&vCenter=true&width=600&duration=1500&lines=Hi,+I'm+Dinushi.;Always+learning+new+things.;" alt="Typing SVG" />
 <!--
 # Hi, I'm Dinushi 👋🏽
 <img width="1246" alt="Screenshot 2022-04-29 at 1 59 40 PM" src="https://user-images.githubusercontent.com/63807534/165910389-ea17b31a-3ae0-4f77-a44a-feb6e278d5e0.png">
