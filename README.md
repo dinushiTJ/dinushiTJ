@@ -22,4 +22,6 @@ I am a postgraduate student at the **University of Waikato**, pursuing a **Maste
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinushiTJ&label=Profile%20views&color=0e75b6&style=flat" alt="dinushiTJ" /> </p>
+-->
