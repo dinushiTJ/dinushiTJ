@@ -14,7 +14,9 @@
   </picture>
 </div>
 
-I am a postgraduate student at the **University of Waikato**, pursuing a **Masters of Artificial Intelligence**. I believe that the skills that I have attained from the dynamic environment and competitive university life define me. Plus, I am looking forward to implementing and polishing my skills in any opportunity that I receive.✨
+Data Engineer and AI graduate based in New Zealand, with experience in data migration, ETL pipelines, data quality, analytics and applied AI. MSc in Artificial Intelligence with First Class Honours from the University of Waikato, with a background in Data Science.
+
+Interested in building reliable, traceable and scalable data systems using Python, SQL and modern data engineering tools.
 
 <b>Reach out: </b>
 <br>
