@@ -127,10 +127,12 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /><br>Grafana</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/package.svg" width="48" height="48" alt="SSIS" /><br>SSIS</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/clipboard.svg" width="48" height="48" alt="SSRS" /><br>SSRS</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/page-facing-up.svg" width="48" height="48" alt="Jasper Reports" /><br>Jasper Reports</td>
   </tr>
 </table>
 
-<sub>Also: SSIS · SSRS · Jasper Reports</sub>
 
 **Web & Design**
 
@@ -144,7 +146,29 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 **Areas of expertise**
 
-Machine Learning · Deep Learning · NLP · Large Language Models · CNNs · Prompt Engineering · Statistical Data Analysis · SQL · ETL · Data Pipelines · Data Lakes · Data Warehousing & BI · Dashboards · Process Automation · UI/UX
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/robot.svg" width="48" height="48" alt="Machine Learning" /><br>Machine Learning</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/brain.svg" width="48" height="48" alt="Deep Learning" /><br>Deep Learning</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/speech-balloon.svg" width="48" height="48" alt="NLP" /><br>NLP</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/sparkles.svg" width="48" height="48" alt="LLMs" /><br>LLMs</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/framed-picture.svg" width="48" height="48" alt="CNNs" /><br>CNNs</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/keyboard.svg" width="48" height="48" alt="Prompt Engineering" /><br>Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/chart-increasing.svg" width="48" height="48" alt="Statistical Analysis" /><br>Statistical Analysis</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/card-file-box.svg" width="48" height="48" alt="SQL" /><br>SQL</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/counterclockwise-arrows-button.svg" width="48" height="48" alt="ETL" /><br>ETL</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/gear.svg" width="48" height="48" alt="Data Pipelines" /><br>Data Pipelines</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/water-wave.svg" width="48" height="48" alt="Data Lakes" /><br>Data Lakes</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/office-building.svg" width="48" height="48" alt="Data Warehousing & BI" /><br>Data Warehousing & BI</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/bar-chart.svg" width="48" height="48" alt="Dashboards" /><br>Dashboards</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/mechanical-arm.svg" width="48" height="48" alt="Process Automation" /><br>Process Automation</td>
+    <td align="center" width="110"><img src="https://api.iconify.design/fluent-emoji-flat/artist-palette.svg" width="48" height="48" alt="UI/UX" /><br>UI/UX</td>
+  </tr>
+</table>
 
 <!--
 <a href="https://www.linkedin.com/in/dinushi-jayasinghe">
