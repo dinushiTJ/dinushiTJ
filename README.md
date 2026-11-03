@@ -1,4 +1,4 @@
-<img src="./assets/header-galaxy.svg" width="100%" alt="Dinushi Jayasinghe - Data Engineer, MSc in Artificial Intelligence, Research Assistant" />
+<img src="./assets/header-galaxy-anim.svg" width="100%" alt="Dinushi Jayasinghe - Data Engineer, MSc in Artificial Intelligence, Research Assistant" />
 
 <p align="left">
   <a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title="LinkedIn"><img src="./assets/linkedin-anime-pixel.svg" alt="" height="28" width="28" align="absmiddle" /> <b>LinkedIn</b></a>
