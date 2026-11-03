@@ -30,6 +30,13 @@ jobs:
         with:
           node-version: 20
 
+      # Generate the neofetch-style profile card (scripts/profile-card.mjs).
+      # Runs before snk, whose container leaves dist/ owned by root.
+      - name: Generate Profile Card
+        run: node scripts/profile-card.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Generate the snake files
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -40,12 +47,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      # Generate the neofetch-style profile card (scripts/profile-card.mjs)
-      - name: Generate Profile Card
-        run: node scripts/profile-card.mjs ${{ github.repository_owner }} dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated files to the output branch
       - name: Push to output branch
