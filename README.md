@@ -83,15 +83,17 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><sub>Python</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/r/r-original.svg" width="40" height="40" alt="R" /><br><sub>R</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br><sub>Bash</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br><sub>Linux</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Conda" /><br><sub>Conda</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /><br><sub>Jupyter</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br><sub>VS Code</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" /><br><sub>PyCharm</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/r/r-original.svg" width="48" height="48" alt="R" /><br>R</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Conda" /><br>Conda</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" /><br>PyCharm</td>
   </tr>
 </table>
 
@@ -99,13 +101,15 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br><sub>TensorFlow</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br><sub>PyTorch</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" /><br><sub>scikit-learn</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /><br><sub>NumPy</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br><sub>Pandas</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" /><br><sub>Matplotlib</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" /><br><sub>Plotly</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" /><br>scikit-learn</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br>Matplotlib</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" /><br>Plotly</td>
   </tr>
 </table>
 
@@ -113,14 +117,16 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" /><br><sub>Airflow</sub></td>
-    <td align="center" width="90"><img src="./assets/dbt.svg" width="40" height="40" alt="dbt" /><br><sub>dbt</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br><sub>MySQL</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" /><br><sub>SQL Server</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" /><br><sub>Oracle</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub>AWS</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /><br><sub>Grafana</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /><br>Airflow</td>
+    <td align="center" width="110"><img src="./assets/dbt.svg" width="48" height="48" alt="dbt" /><br>dbt</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" /><br>SQL Server</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /><br>Grafana</td>
   </tr>
 </table>
 
@@ -130,9 +136,9 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br><sub>Figma</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br>Figma</td>
   </tr>
 </table>
 
