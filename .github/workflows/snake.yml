@@ -4,10 +4,10 @@ on:
   # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
+
   # Allow manual trigger
   workflow_dispatch:
-  
+
   # Run on every push to main
   push:
     branches:
@@ -19,23 +19,23 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       # Check out the repository
       - name: Checkout
-        uses: actions/checkout@v3
-      
-      # Generate the snake files
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        id: snake-gif
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
+          node-version: 20
+
+      # Generate the long snake files (scripts/long-snake.mjs)
+      - name: Generate Snake
+        run: node scripts/long-snake.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Push the generated files to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
