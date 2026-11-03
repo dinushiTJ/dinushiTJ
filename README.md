@@ -1,11 +1,11 @@
-<img src="./assets/header-galaxy-anim.svg" width="100%" alt="Dinushi Jayasinghe - Data Engineer, MSc in Artificial Intelligence, Research Assistant" />
+<img src="./assets/header-space.svg" width="100%" alt="Dinushi Jayasinghe - Data Engineer, MSc in Artificial Intelligence, Research Assistant" />
 
 <p align="left">
-  <a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title="LinkedIn"><img src="./assets/linkedin-anime-pixel.svg" alt="" height="28" width="28" align="absmiddle" /> <b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title="LinkedIn"><img src="./assets/linkedin-icon.svg" alt="" height="28" width="28" align="absmiddle" /> <b>LinkedIn</b></a>
   &nbsp;·&nbsp;
   <a href="https://huggingface.co/dinushiTJ" target="blank" title="Hugging Face"><img src="./assets/huggingface-anime-pixel.svg" alt="" height="28" width="28" align="absmiddle" /> <b>Hugging Face</b></a>
   &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0005-6042-9137" target="blank" title="ORCID"><img src="./assets/orcid-pixel.svg" alt="" height="28" width="28" align="absmiddle" /> <b>ORCID</b></a>
+  <a href="https://orcid.org/0009-0005-6042-9137" target="blank" title="ORCID"><img src="./assets/orcid-icon.svg" alt="" height="28" width="28" align="absmiddle" /> <b>ORCID</b></a>
 </p>
 
 <div align="left">
