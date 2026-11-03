@@ -77,11 +77,48 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 </details>
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tooling
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,mysql,js,ts,git,github,vscode,linux&perline=12" alt="tech stack" />
-</p>
+**Languages & Core**
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/r/r-original.svg" width="40" height="40" alt="R" /><br><sub>R</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br><sub>Bash</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Conda" /><br><sub>Conda</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /><br><sub>Jupyter</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br><sub>VS Code</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" /><br><sub>PyCharm</sub></td>
+  </tr>
+</table>
+
+**Machine Learning & Data**
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br><sub>TensorFlow</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br><sub>PyTorch</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" /><br><sub>scikit-learn</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /><br><sub>NumPy</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br><sub>Pandas</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" /><br><sub>Matplotlib</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" /><br><sub>Plotly</sub></td>
+  </tr>
+</table>
+
+**Databases & Web**
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+  </tr>
+</table>
 
 <!--
 <a href="https://www.linkedin.com/in/dinushi-jayasinghe">
