@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
+  <defs>
+    <radialGradient id="g"><stop offset="0" stop-color="#ff7ad9"/><stop offset="1" stop-color="#800081"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g stroke="#b04fc0" stroke-width="1" opacity="0.35">
+    <line x1="70" y1="64" x2="230" y2="28"/>
+    <line x1="70" y1="64" x2="230" y2="64"/>
+    <line x1="70" y1="64" x2="230" y2="100"/>
+    <line x1="70" y1="64" x2="230" y2="136"/>
+    <line x1="70" y1="64" x2="230" y2="172"/>
+    <line x1="70" y1="100" x2="230" y2="28"/>
+    <line x1="70" y1="100" x2="230" y2="64"/>
+    <line x1="70" y1="100" x2="230" y2="100"/>
+    <line x1="70" y1="100" x2="230" y2="136"/>
+    <line x1="70" y1="100" x2="230" y2="172"/>
+    <line x1="70" y1="136" x2="230" y2="28"/>
+    <line x1="70" y1="136" x2="230" y2="64"/>
+    <line x1="70" y1="136" x2="230" y2="100"/>
+    <line x1="70" y1="136" x2="230" y2="136"/>
+    <line x1="70" y1="136" x2="230" y2="172"/>
+    <line x1="230" y1="28" x2="390" y2="28"/>
+    <line x1="230" y1="28" x2="390" y2="64"/>
+    <line x1="230" y1="28" x2="390" y2="100"/>
+    <line x1="230" y1="28" x2="390" y2="136"/>
+    <line x1="230" y1="28" x2="390" y2="172"/>
+    <line x1="230" y1="64" x2="390" y2="28"/>
+    <line x1="230" y1="64" x2="390" y2="64"/>
+    <line x1="230" y1="64" x2="390" y2="100"/>
+    <line x1="230" y1="64" x2="390" y2="136"/>
+    <line x1="230" y1="64" x2="390" y2="172"/>
+    <line x1="230" y1="100" x2="390" y2="28"/>
+    <line x1="230" y1="100" x2="390" y2="64"/>
+    <line x1="230" y1="100" x2="390" y2="100"/>
+    <line x1="230" y1="100" x2="390" y2="136"/>
+    <line x1="230" y1="100" x2="390" y2="172"/>
+    <line x1="230" y1="136" x2="390" y2="28"/>
+    <line x1="230" y1="136" x2="390" y2="64"/>
+    <line x1="230" y1="136" x2="390" y2="100"/>
+    <line x1="230" y1="136" x2="390" y2="136"/>
+    <line x1="230" y1="136" x2="390" y2="172"/>
+    <line x1="230" y1="172" x2="390" y2="28"/>
+    <line x1="230" y1="172" x2="390" y2="64"/>
+    <line x1="230" y1="172" x2="390" y2="100"/>
+    <line x1="230" y1="172" x2="390" y2="136"/>
+    <line x1="230" y1="172" x2="390" y2="172"/>
+    <line x1="390" y1="28" x2="530" y2="82"/>
+    <line x1="390" y1="28" x2="530" y2="118"/>
+    <line x1="390" y1="64" x2="530" y2="82"/>
+    <line x1="390" y1="64" x2="530" y2="118"/>
+    <line x1="390" y1="100" x2="530" y2="82"/>
+    <line x1="390" y1="100" x2="530" y2="118"/>
+    <line x1="390" y1="136" x2="530" y2="82"/>
+    <line x1="390" y1="136" x2="530" y2="118"/>
+    <line x1="390" y1="172" x2="530" y2="82"/>
+    <line x1="390" y1="172" x2="530" y2="118"/>
+  </g>
+  <g fill="#ff7ad9" filter="url(#glow)">
+    <circle r="2.5" opacity="0"><animateMotion path="M70,64 L230,28" dur="1.6s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M70,64 L230,136" dur="1.6s" begin="0.69s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.69s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M70,100 L230,64" dur="1.6s" begin="1.38s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.38s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M70,100 L230,172" dur="1.6s" begin="0.46s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.46s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M70,136 L230,100" dur="1.6s" begin="1.15s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.15s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,28 L390,28" dur="1.6s" begin="1.03s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.03s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,28 L390,136" dur="1.6s" begin="1.72s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.72s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,64 L390,64" dur="1.6s" begin="0.80s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.80s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,64 L390,172" dur="1.6s" begin="1.49s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.49s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,100 L390,100" dur="1.6s" begin="2.18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.18s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,136 L390,28" dur="1.6s" begin="1.26s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.26s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,136 L390,136" dur="1.6s" begin="1.95s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.95s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,172 L390,64" dur="1.6s" begin="1.03s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.03s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M230,172 L390,172" dur="1.6s" begin="1.72s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.72s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M390,64 L530,82" dur="1.6s" begin="1.60s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.60s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M390,100 L530,118" dur="1.6s" begin="2.29s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.29s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" opacity="0"><animateMotion path="M390,172 L530,82" dur="1.6s" begin="0.58s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.58s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="url(#g)" stroke="#ff7ad9" stroke-width="1.5" filter="url(#glow)">
+    <circle cx="70" cy="64" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="100" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.15s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="136" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.30s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="28" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.50s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="64" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.65s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="100" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.80s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="136" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="0.95s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="172" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.10s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="28" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.00s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="64" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.15s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="100" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.30s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="136" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.45s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="172" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.60s" repeatCount="indefinite"/></circle>
+    <circle cx="530" cy="82" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.50s" repeatCount="indefinite"/></circle>
+    <circle cx="530" cy="118" r="9"><animate attributeName="r" values="9;11;9" dur="2.4s" begin="1.65s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

@@ -42,7 +42,7 @@ Interested in building reliable, traceable and scalable data systems using Pytho
 As a **Research Assistant** on the **Māori Data Findability Project**, I use LLM labelling and fine-tuned classifiers to find Māori data in NZ Parliament debates and the University of Waikato Research Commons.
 
 <div align="left">
-  <img src="./assets/neural-net-pixel.svg" alt="animated neural network" width="600" />
+  <img src="./assets/neural-net.svg" alt="animated neural network" width="600" />
 </div>
 
 ## 🔬 Research
