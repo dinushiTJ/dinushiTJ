@@ -109,16 +109,36 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
   </tr>
 </table>
 
-**Databases & Web**
+**Data Engineering & Cloud**
 
 <table>
   <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" /><br><sub>Airflow</sub></td>
+    <td align="center" width="90"><img src="./assets/dbt.svg" width="40" height="40" alt="dbt" /><br><sub>dbt</sub></td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br><sub>MySQL</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" /><br><sub>SQL Server</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" /><br><sub>Oracle</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub>AWS</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /><br><sub>Grafana</sub></td>
   </tr>
 </table>
+
+<sub>Also: SSIS · SSRS · Jasper Reports</sub>
+
+**Web & Design**
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br><sub>Figma</sub></td>
+  </tr>
+</table>
+
+**Areas of expertise**
+
+Machine Learning · Deep Learning · NLP · Large Language Models · CNNs · Prompt Engineering · Statistical Data Analysis · SQL · ETL · Data Pipelines · Data Lakes · Data Warehousing & BI · Dashboards · Process Automation · UI/UX
 
 <!--
 <a href="https://www.linkedin.com/in/dinushi-jayasinghe">
