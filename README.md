@@ -1,7 +1,7 @@
 <img src="./assets/header.svg" width="100%" alt="Dinushi Jayasinghe - Data Engineer, MSc in Artificial Intelligence, Research Assistant" />
 
 <p align="left">
-  <a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title="LinkedIn"><img src="./assets/linkedin-anime.gif" alt="" height="28" width="28" align="absmiddle" /> <b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/dinushi-jayasinghe" target="blank" title="LinkedIn"><img src="./assets/linkedin-anime.svg" alt="" height="28" width="28" align="absmiddle" /> <b>LinkedIn</b></a>
   &nbsp;·&nbsp;
   <a href="https://huggingface.co/dinushiTJ" target="blank" title="Hugging Face"><img src="./assets/huggingface-anime.svg" alt="" height="28" width="28" align="absmiddle" /> <b>Hugging Face</b></a>
   &nbsp;·&nbsp;
