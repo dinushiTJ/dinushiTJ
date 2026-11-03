@@ -77,8 +77,6 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
 
 </details>
 
-<img src="./assets/footer-pixel.svg" width="100%" alt="" />
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -90,9 +88,5 @@ As a **Research Assistant** on the **Māori Data Findability Project**, I use LL
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dinushiTJ&label=Profile%20views&color=800081&style=for-the-badge" alt="profile views" />
-</p>
 
 <img src="./assets/footer-pixel.svg" width="100%" alt="" />
