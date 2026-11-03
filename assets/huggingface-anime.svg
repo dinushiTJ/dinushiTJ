@@ -1,34 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0 2; 0 -3; 0 2" dur="1.2s" repeatCount="indefinite"/>
-    <!-- face -->
-    <circle cx="50" cy="46" r="34" fill="#FFD21E"/>
-    <!-- eyes (blink) -->
-    <g fill="#3A3B45">
-      <ellipse cx="38" cy="38" rx="4.5" ry="5">
-        <animate attributeName="ry" values="5;5;0.6;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="62" cy="38" rx="4.5" ry="5">
-        <animate attributeName="ry" values="5;5;0.6;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-    <!-- cheeks -->
-    <circle cx="28" cy="50" r="4" fill="#FF9D0B" opacity="0.5"/>
-    <circle cx="72" cy="50" r="4" fill="#FF9D0B" opacity="0.5"/>
-    <!-- smile -->
-    <path d="M36 52 Q50 68 64 52 Q50 60 36 52 Z" fill="#3A3B45"/>
-    <path d="M43 58 Q50 63 57 58 Q50 60 43 58 Z" fill="#EF4E4E"/>
-    <!-- left hand -->
+  <!-- same 5s loop as linkedin-anime.gif: hold, face shrinks, badge shrinks, badge pops back, face grows -->
+  <g transform="translate(50 50)">
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 22 76; -14 22 76; 0 22 76" dur="0.6s" repeatCount="indefinite"/>
-      <ellipse cx="22" cy="76" rx="11" ry="9" fill="#FF9D0B"/>
-      <ellipse cx="25" cy="73" rx="7" ry="5" fill="#FFD21E"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1;0;0;1.08;1;1" keyTimes="0;0.37;0.5;0.62;0.72;0.78;1" dur="5s" repeatCount="indefinite"/>
+      <circle r="41" fill="#FFD21E"/>
     </g>
-    <!-- right hand -->
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 78 76; 14 78 76; 0 78 76" dur="0.6s" repeatCount="indefinite"/>
-      <ellipse cx="78" cy="76" rx="11" ry="9" fill="#FF9D0B"/>
-      <ellipse cx="75" cy="73" rx="7" ry="5" fill="#FFD21E"/>
+      <animateTransform attributeName="transform" type="scale" values="1;1;0;0;1;1" keyTimes="0;0.25;0.37;0.75;0.87;1" dur="5s" repeatCount="indefinite"/>
+      <g transform="translate(-50 -50)">
+        <g fill="#3A3B45">
+          <ellipse cx="38" cy="42" rx="4.5" ry="5.5"/>
+          <ellipse cx="62" cy="42" rx="4.5" ry="5.5"/>
+        </g>
+        <path d="M35 54 Q50 72 65 54 Q50 63 35 54 Z" fill="#3A3B45"/>
+        <path d="M43 61 Q50 66 57 61 Q50 63.5 43 61 Z" fill="#EF4E4E"/>
+        <g fill="#FF9D0B">
+          <ellipse cx="27" cy="72" rx="9" ry="7"/>
+          <ellipse cx="73" cy="72" rx="9" ry="7"/>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
