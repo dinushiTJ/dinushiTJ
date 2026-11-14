@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 554" width="960" height="554" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="15">
+<style>
+.key { fill: #800081; }
+.value { fill: #0a3069; }
+.dots { fill: #c9a6cf; }
+text, tspan { white-space: pre; }
+</style>
+<rect x="1" y="1" width="958" height="552" rx="14" fill="#f6f8fa" stroke="#e09ae6"/>
+<text fill="#800081">
+<tspan x="24" y="64">  ____        _ </tspan>
+<tspan x="24" y="86"> |  _ \      | |</tspan>
+<tspan x="24" y="108"> | | | |     | |</tspan>
+<tspan x="24" y="130"> | | | | _   | |</tspan>
+<tspan x="24" y="152"> | |_| || |__| |</tspan>
+<tspan x="24" y="174"> |____/  \____/ </tspan>
+<tspan x="24" y="196"></tspan>
+<tspan x="24" y="218"></tspan>
+<tspan x="24" y="240">    o───o───o</tspan>
+<tspan x="24" y="262">   ╱ ╲ ╱ ╲ ╱ ╲</tspan>
+<tspan x="24" y="284">  o───o───o───o</tspan>
+<tspan x="24" y="306">   ╲ ╱ ╲ ╱ ╲ ╱</tspan>
+<tspan x="24" y="328">    o───o───o</tspan>
+<tspan x="24" y="350"></tspan>
+<tspan x="24" y="372"></tspan>
+<tspan x="24" y="394">  learn · build · repeat</tspan>
+</text>
+<text fill="#24292f">
+<tspan x="330" y="34" class="key" font-weight="bold">dinushi@waikato</tspan>
+<tspan x="330" y="56" class="dots">────────────────────────────────────────────────────────────────</tspan>
+<tspan x="330" y="78" class="dots">. </tspan><tspan class="key">Role</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">Data Engineer, Research Assistant</tspan>
+<tspan x="330" y="100" class="dots">. </tspan><tspan class="key">Education</tspan><tspan class="dots">: .................... </tspan><tspan class="value">MSc in AI, First Class Honours</tspan>
+<tspan x="330" y="122" class="dots">. </tspan><tspan class="key">University</tspan><tspan class="dots">: ............................ </tspan><tspan class="value">University of Waikato</tspan>
+<tspan x="330" y="144" class="dots">. </tspan><tspan class="key">Research</tspan><tspan class="dots">: ..................... </tspan><tspan class="value">Māori Data Findability Project</tspan>
+<tspan x="330" y="166" class="dots">. </tspan><tspan class="key">Location</tspan><tspan class="dots">: ........................................ </tspan><tspan class="value">New Zealand</tspan>
+<tspan x="330" y="188" class="dots">. </tspan><tspan class="key">IDE</tspan><tspan class="dots">: ................................................. </tspan><tspan class="value">VS Code</tspan>
+
+<tspan x="330" y="232" class="dots">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="dots">: ... </tspan><tspan class="value">Python, JavaScript, TypeScript, SQL</tspan>
+<tspan x="330" y="254" class="dots">. </tspan><tspan class="key">Languages.ML</tspan><tspan class="dots">: .............. </tspan><tspan class="value">PyTorch, TensorFlow, scikit-learn</tspan>
+<tspan x="330" y="276" class="dots">. </tspan><tspan class="key">Languages.Data</tspan><tspan class="dots">: .............. </tspan><tspan class="value">PostgreSQL, Spark, dbt, Airflow</tspan>
+
+<tspan x="330" y="320" class="key">─ Contact </tspan><tspan class="dots">──────────────────────────────────────────────────────</tspan>
+<tspan x="330" y="342" class="dots">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="dots">: ................................. </tspan><tspan class="value">dinushi-jayasinghe</tspan>
+<tspan x="330" y="364" class="dots">. </tspan><tspan class="key">Hugging Face</tspan><tspan class="dots">: ...................................... </tspan><tspan class="value">dinushiTJ</tspan>
+<tspan x="330" y="386" class="dots">. </tspan><tspan class="key">ORCID</tspan><tspan class="dots">: ................................... </tspan><tspan class="value">0009-0005-6042-9137</tspan>
+
+<tspan x="330" y="430" class="key">─ GitHub Stats </tspan><tspan class="dots">─────────────────────────────────────────────────</tspan>
+<tspan x="330" y="452" class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="dots">: ...................................... </tspan><tspan class="value">22  |  Stars: 12</tspan>
+<tspan x="330" y="474" class="dots">. </tspan><tspan class="key">Followers</tspan><tspan class="dots">: ................................................. </tspan><tspan class="value">5</tspan>
+<tspan x="330" y="496" class="dots">. </tspan><tspan class="key">Contributions (last year)</tspan><tspan class="dots">: ............................... </tspan><tspan class="value">436</tspan>
+<tspan x="330" y="518" class="dots">. </tspan><tspan class="key">GitHub age</tspan><tspan class="dots">: ................................ </tspan><tspan class="value">6 years, 6 months</tspan>
+</text>
+</svg>
